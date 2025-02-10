@@ -1,0 +1,28 @@
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.exe
+C:\Users\Alunos\CALCULADORA\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.deps.json
+C:\Users\Alunos\CALCULADORA\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.runtimeconfig.json
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.dll
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.pdb
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.AssemblyInfoInputs.cache
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.AssemblyInfo.cs
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.dll
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\refint\CalculadoraForm.dll
+c:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.pdb
+C:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.genruntimeconfig.cache
+C:\Users\Alunos\CALCULADORA\CalculadoraForm\obj\Debug\net8.0-windows\ref\CalculadoraForm.dll
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.exe
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.deps.json
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.runtimeconfig.json
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.dll
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\bin\Debug\net8.0-windows\CalculadoraForm.pdb
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.AssemblyInfoInputs.cache
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.AssemblyInfo.cs
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.dll
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\refint\CalculadoraForm.dll
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.pdb
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\CalculadoraForm.genruntimeconfig.cache
+C:\Users\Alunos\CALCULADORA 2\CalculadoraForm\obj\Debug\net8.0-windows\ref\CalculadoraForm.dll
